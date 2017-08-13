@@ -1,0 +1,28 @@
+A simulation of species spread in music enjoyment .
+
+Locate your dandelion seed ,Turn on the music, and fly in the wind. Let the beats be your direction, spread your seed in the real world.
+
+
+select a musicfrom your playlist and the location you want to start,play the game as you like.
+Set datasource according to your network statues.set "random" to make a random map without download data from internet.
+
+
+
+			//datasTxt.text = "Default Setting";
+			//datasTxt.text += " \n  data source =  Random Map";
+			//datasTxt.text += "\nBuild a random terrain. Will not call for network resources.";
+			//datasTxt.text += "\nGet a private Apikey for a better play experience.";
+
+AIzaSyD04LHgbiErZTYJMfda2epkG0YeaQHVuEE
+
+Alx3lnaKPAchj200vPlB4UXk2UY6JXCm2FNO8LzAzjrftFyzS_2fJGmR_nii9VL_
+
+是否允许选择地点
+
+How to get an API key?
+for google service:
+https://developers.google.com/maps/documentation/elevation/start
+for Bing service:
+https://www.bingmapsportal.com/Application
+
+if you just want tohave a try, use default setting with a public key is OK.
